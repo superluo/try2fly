@@ -42,8 +42,8 @@
 
 ---
 
-##### 视频
-<video id="video" controls="" preload="none" poster="封面">
+##### 视频(可看完整的：attach/cover.mp4)
+<video id="video" controls="" poster="attach/0.jpg">
       <source id="abcdef" src="attach/cover.mp4" type="video/mp4">
 </videos>
 
