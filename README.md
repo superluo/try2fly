@@ -38,22 +38,19 @@
 
 ##### 图片
 
-![](attach/0.jpg)
-![](attach/1.jpg)
-![](attach/2.jpg)
-![](attach/3.jpg)
-![](attach/4.jpg)
-![](attach/5.jpg)
-![](attach/6.png)
-![](attach/7.jpg)
-![](attach/8.jpg)
-
+![0](attach/0.jpg){:height="200px" width="300px"} ![1](attach/1.jpg){:height="200px" width="300px"}
+![2](attach/2.jpg){:height="200px" width="300px"} ![3](attach/3.jpg){:height="200px" width="300px"}
+![4](attach/4.jpg){:height="200px" width="300px"} ![8](attach/8.jpg){:height="200px" width="300px"}
+![5](attach/5.jpg){:height="200px" width="300px"} ![7](attach/7.jpg){:height="200px" width="300px"}
+![6](attach/6.png)
 ---
 
 ##### 视频(可看完整的：attach/cover.mp4)
-<video id="video" controls="" poster="attach/0.jpg">
-      <source id="abcdef" src="attach/cover.mp4" type="video/mp4">
-</videos>
+
+<video controls width="500">
+  <source src="/attach/cover.mp4" type="video/mp4">
+  可去附件中查看相对完整的功能：attach/cover.mp4
+</video>
 
 **The End**
 技术应用学实践者：
