@@ -44,7 +44,7 @@
 ![](attach/3.jpg)
 ![](attach/4.jpg)
 ![](attach/5.jpg)
-![](attach/6.jpg)
+![](attach/6.png)
 ![](attach/7.jpg)
 ![](attach/8.jpg)
 
