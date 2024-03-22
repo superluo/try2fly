@@ -43,15 +43,34 @@
 ![4](attach/4.jpg){:height="200px" width="300px"} ![8](attach/8.jpg){:height="200px" width="300px"}
 ![5](attach/5.jpg){:height="200px" width="300px"} ![7](attach/7.jpg){:height="200px" width="300px"}
 ![6](attach/6.png)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/0.jpg" alt="Image 1" style="width: 200px; margin-right: 10px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/1.jpg" alt="Image 2" style="width: 200px; margin-right: 10px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/3.jpg" alt="Image 3" style="width: 200px;">
+</div>
+<figure>
+  ![图片](https://github.com/superluo/try2fly/blob/main/attach/0.jpg)
+  <figcaption>图片说明</figcaption>
+</figure>
+
 ---
 
 ##### 视频(可看完整的：attach/cover.mp4)
 
 <video controls width="500">
-  <source src="/attach/cover.mp4" type="video/mp4">
+  <source src="attach/cover.mp4" type="video/mp4">
   可去附件中查看相对完整的功能：attach/cover.mp4
 </video>
 
 **The End**
-技术应用学实践者：
-勉强算是拥互不少联网行业开发经验，包括互联网电视业务、广告投放平台引擎、物联网IOT、旅游景点app(聚合支付)、美团酒店业务以及阿里电商交易和话费充值等领域。不知不觉写了11年。
+
+```
+
+争做技术应用学实践者：
+
+勉强算是拥互不少联网行业开发经验，
+包括互联网电视业务、广告投放平台引擎、物联网IOT、旅游景点app(聚合支付)、美团酒店业务以及阿里电商交易和话费充值等领域。
+不知不觉写了11年。
+
+```
