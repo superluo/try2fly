@@ -61,7 +61,7 @@
 </div>
 ---
 
-##### 视频(可看完整的：attach/cover.mp4)$$
+##### 视频(可看完整的：attach/cover.mp4)
 
 <video controls width="500">
   <source src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/cover.mp4" type="video/mp4">
