@@ -67,6 +67,7 @@
   <source src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/cover.mp4" type="video/mp4">
   可去附件中查看相对完整的功能：attach/cover.mp4
 </video>
+
 异或：[预览](https://youtube.com/shorts/Jug_AjrO1-8?feature=share)
 
 **The End**
