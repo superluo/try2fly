@@ -39,22 +39,22 @@
 ##### 图片
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/0.jpg" alt="第1个" style="width: 280px; margin-right: 150px;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/1.jpg" alt="第2个" style="width: 280px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/0.jpg" alt="第1个" style="width: 280px; margin-right: 150px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/1.jpg" alt="第2个" style="width: 280px; margin-right: 10px;">
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/2.jpg" alt="第3个" style="width: 280px; margin-right: 150px;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/3.jpg" alt="第4个" style="width: 280px; margin-right: 10px;">
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/4.jpg" alt="第5个" style="width: 280px; margin-right: 150px;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/8.jpg" alt="第6个" style="width: 280px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/2.jpg" alt="第3个" style="width: 280px; margin-right: 150px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/3.jpg" alt="第4个" style="width: 280px; margin-right: 10px;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/5.jpg" alt="第7个" style="width: 280px; margin-right: 150px;">
-    <img src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/7.jpg" alt="第8个" style="width: 280px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/4.jpg" alt="第5个" style="width: 280px; margin-right: 150px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/8.jpg" alt="第6个" style="width: 280px; margin-right: 10px;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/5.jpg" alt="第7个" style="width: 280px; margin-right: 150px;">
+    <img src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/7.jpg" alt="第8个" style="width: 280px; margin-right: 10px;">
 </div>
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/superluo/try2fly/blob/main/attach/6.png?raw=true" alt="第9个">
@@ -64,10 +64,10 @@
 ##### 视频(可看完整的：attach/cover.mp4)
 
 <video controls width="500">
-  <source src="https://raw.githubusercontent.com/superluo/try2fly/main/attach/cover.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/superluo/try2fly/refs/heads/main/attach/cover.mp4" type="video/mp4">
   可去附件中查看相对完整的功能：attach/cover.mp4
 </video>
-
+$$
 异或：[预览](https://youtube.com/shorts/Jug_AjrO1-8?feature=share)
 
 **The End**
