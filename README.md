@@ -145,7 +145,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_11.png" alt="第11个" style="width: 280px; margin-right: 150px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_11.jpg" alt="第11个" style="width: 280px; margin-right: 150px;">
     <img src="https://github.com/superluo/try2fly/blob/main/attach/s_12.png" alt="第12个" style="width: 280px; margin-right: 10px;">
 </div>
 ---
