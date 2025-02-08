@@ -153,7 +153,7 @@
 ##### 视频(可看完整的：attach/cover.mp4)
 
 <video controls width="500">
-  <source src="https://github.com/superluo/try2fly/blob/main/attach/tmp.mp4" type="video/mp4">
+  <source src="https://github.com/superluo/try2fly/blob/main/attach/cover.mp4" type="video/mp4">
   可去附件中查看相对完整的功能：attach/cover.mp4
 </video>
 
