@@ -161,17 +161,17 @@
 ##### 图片
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_1.jpg" alt="第1个" style="width: 280px; margin-right: 150px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_1.png" alt="第1个" style="width: 280px; margin-right: 150px;">
     <img src="https://github.com/superluo/try2fly/blob/main/attach/s_2.jpg" alt="第2个" style="width: 280px; margin-right: 10px;">
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_3.jpg" alt="第3个" style="width: 280px; margin-right: 150px;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_4.jpg" alt="第4个" style="width: 280px; margin-right: 10px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_3.png" alt="第3个" style="width: 280px; margin-right: 150px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_4.png" alt="第4个" style="width: 280px; margin-right: 10px;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/superluo/try2fly/blob/main/attach/s_6.jpg" alt="第5个" style="width: 280px; margin-right: 150px;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_5.jpg" alt="第6个" style="width: 280px; margin-right: 10px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_5.png" alt="第6个" style="width: 280px; margin-right: 10px;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
@@ -180,13 +180,13 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_9.jpg" alt="第9个" style="width: 280px; margin-right: 150px;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_10.jpg" alt="第10个" style="width: 280px; margin-right: 10px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_9.png" alt="第9个" style="width: 280px; margin-right: 150px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_10.png" alt="第10个" style="width: 280px; margin-right: 10px;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_11.jpg" alt="第11个" style="width: 280px; margin-right: 150px;">
-    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_12.jpg" alt="第12个" style="width: 280px; margin-right: 10px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_11.png" alt="第11个" style="width: 280px; margin-right: 150px;">
+    <img src="https://github.com/superluo/try2fly/blob/main/attach/s_12.png" alt="第12个" style="width: 280px; margin-right: 10px;">
 </div>
 ---
 
